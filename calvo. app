@@ -1,0 +1,3 @@
+import streamlit as st
+st.tiyle("Solo Motos Calvo")
+st.write("bienvenido al taller")
